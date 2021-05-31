@@ -1,1 +1,5 @@
 # wireshark
+Wireshark ping 指定網頁
+找出TCP三向交握和UDP的封包
+觀察HTTP協議中的內容
+使用nslookup 用wireshark判斷連線是使用UDP還是TCP
